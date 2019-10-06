@@ -1,0 +1,163 @@
+﻿{
+  "sheduleVillage": {
+    "shedule": [
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "06:00",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "12:45",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "13:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "14:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "20:35",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "06:40",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "07:15",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "08:45",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "09:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "20:35",
+        "zaezd_v_padDB": "N"
+      }
+    ]
+  },
+  "sheduleCity": {
+    "shedule": [
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "06:40",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "07:10",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "08:00",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "18:00",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "18:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "N",
+        "scTimeDB": "19:20",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "09:30",
+        "zaezd_v_padDB": "Y"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "10:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "11:50",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "12:30",
+        "zaezd_v_padDB": "Y"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "13:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "18:30",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "20:00",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "M",
+        "isSundayDB": "Y",
+        "scTimeDB": "20:40",
+        "zaezd_v_padDB": "N"
+      },
+      {
+        "busTypeDB": "B",
+        "isSundayDB": "Y",
+        "scTimeDB": "21:20",
+        "zaezd_v_padDB": "N"
+      }
+    ]
+  },
+  "otherData": {
+    "aboutSchedule": "Информация взята из расписания, размещенного в автобусе (24 сентября 2019 г).\nРасписание маршруток предоставлено пользователями приложения.\nЕсли вы заметили неточность в расписании - напишите об этом через специальный пункт в меню."
+  }
+}
