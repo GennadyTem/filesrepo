@@ -1,7 +1,7 @@
 {
     "database_version":"2024081401",
-    "app_version":"3.1.0",
-    "app_version_code":"2024080301",
-    "app_minimal_version":"3.0.8",
-    "min_version_code":"2024051401"
+    "app_version":"3.1.1",
+    "app_version_code":"2024090101",
+    "app_minimal_version":"3.0.9",
+    "min_version_code":"2024052002"
 }
